@@ -1,3 +1,5 @@
+package HasSet;
+
 import java.util.HashSet;
 import java.util.Set;
 
@@ -8,11 +10,12 @@ public class BasicHashSet {
         param.add(1);
         param.add(2);
         param.add(3);
-        param.add(4);
-        param.add(5);
+        param.add(2);
+        param.add(1);
 
-        param.remove(3);
-        System.out.println(param.contains(4));//true
+
+//        param.remove(3);
+//        System.out.println(param.contains(4));//true
 
         for(Integer loop: param){
             System.out.println("value"+loop);

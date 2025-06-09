@@ -1,4 +1,4 @@
-//Count the Number of Words in a String
+package Strings;//Count the Number of Words in a String
 //
 //        Input: "Hello world! This is Java."
 //

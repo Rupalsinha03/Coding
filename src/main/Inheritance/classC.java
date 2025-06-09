@@ -1,4 +1,8 @@
-public class classC implements interface1,interface2,interface3{
+package Inheritance;
+
+import Inheritance.interface2;
+
+public class classC implements interface1, interface2{
     public static void methodC(){
         System.out.println();
     }

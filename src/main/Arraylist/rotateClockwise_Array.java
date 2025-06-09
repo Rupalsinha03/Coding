@@ -1,4 +1,4 @@
-//Given an array, the task is to cyclically rotate the array clockwise by one time.
+package Arraylist;//Given an array, the task is to cyclically rotate the array clockwise by one time.
 //
 //Examples:
 //    Input: arr[] = {1, 2, 3, 4, 5}
@@ -27,7 +27,7 @@ public class rotateClockwise_Array {
         int k=3;
         rotate(arr,3);
         for (int j=0;j<arr.length;j++){
-            System.out.println(arr[j]);
+            System.out.print(arr[j]);
         }
         //System.out.println(Arrays.toString(arr));
 

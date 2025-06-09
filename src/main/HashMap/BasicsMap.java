@@ -1,7 +1,6 @@
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Map;
-import java.util.Set;
+package HashMap;
+
+import java.util.*;
 
 public class BasicsMap {
     public static void main(String[] args) {
@@ -22,5 +21,6 @@ public class BasicsMap {
             System.out.println("Key:"+key+ "keyvalue"+map.get(key));
         }
         }
+
 
 }

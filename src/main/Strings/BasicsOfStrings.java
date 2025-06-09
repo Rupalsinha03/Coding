@@ -1,3 +1,5 @@
+package Strings;
+
 public class BasicsOfStrings {
 
     public static void main(String[] args) {
